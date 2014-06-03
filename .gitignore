@@ -1,0 +1,10 @@
+*.tar
+*.gz
+*.zip
+current
+repo/
+*.log
+cache/
+releases/
+repo/
+*.log
